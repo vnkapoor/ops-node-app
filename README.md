@@ -7,6 +7,8 @@ npm install
 
 cp .env-sample .env
 
+create new folder public/uploads
+
 Make proper db configuration
 
 npx sequelize-cli db:migrate
